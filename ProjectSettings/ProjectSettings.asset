@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: f092c64769ce7e64f966bf8250ce8aaf
+  productGUID: 4e6bcaa6d71c2bf45aa68258ad869e91
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Recreated Scene
+  productName: HDRP_Sword_Test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -137,6 +137,8 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
+  visionOSBundleVersion: 1.0
+  tvOSBundleVersion: 1.0
   bundleVersion: 0.1.0
   preloadedAssets: []
   metroInputSource: 0
@@ -842,14 +844,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Recreated Scene
+  metroPackageName: HDRP_Sword_Test
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Recreated Scene
+  metroApplicationDescription: HDRP_Sword_Test
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,12 +918,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 250ffc5b-8ead-4699-a4d4-f8fa89d9b440
+  cloudProjectId: 236bddc6-0fc9-4241-bf89-b9eca234462e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Recreated Scene
+  projectName: HDRP_Sword_Test
   organizationId: dvparikh
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
